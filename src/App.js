@@ -3,7 +3,7 @@ import './App.css';
 
 const list = [
   {
-    title: 'Learning',
+    title: 'List of books',
     url: 'https://reactjs.org/',
     author: 'Jordan Walke',
     num_comments: 3,
@@ -11,7 +11,7 @@ const list = [
     objectID: 0,
   },
   {
-    title: 'React',
+    title: 'Which one to read',
     url: 'https://redux.js.org/',
     author: 'Dan Abramov, Andrew Clark',
     num_comments: 2,
